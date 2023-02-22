@@ -1,0 +1,10 @@
+
+VAO--attrib_pointer in class (make vertices a class with the needed sizes and get them automaticaly)?
+EBO--indices in class?
+
+VBO VAO EBO one unified class?
+
+runtime class
+	clear color
+	shader use
+	bind textures
